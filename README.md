@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋 Im Rodrigo Camones (DevR0d), "As humble as the early days of JavaScript" </h1>
-<h3 align="center"> Future FS Developer and Prompt AI Engineer | Ingeniero de Sistemas e Informatica | Security, Design and Automatization </h3>
+<h3 align="center"> Future FS Developer and AI Software Engineer | Ingeniero de Sistemas e Informatica | Security, Design and Automatization </h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rodrigo-camones-5a265121a" target="_blank">
@@ -16,29 +16,24 @@
   </a>
 </p>
 
----
-
 🧭 Sobre mí
 
-Soy Ingeniero de Sistemas egresado de la UNAP (Iquitos, Perú), enfocado en desarrollo web, software y aplicaciones con un principio que guía todo mi trabajo: "security by design with evidence" — cada habilidad que muestro está respaldada por evidencia verificable, porque para data basada en teoria esta la science.
+Bachiller en Ingeniería de Sistemas e Informatica, enfocado en desarrollo web, software y aplicaciones con un principio que guía todo mi trabajo: "security by design with evidence" — cada habilidad que muestro está respaldada por evidencia verificable y todo un proceso metodologicamente ágil documentado.
 
-Actualmente construyo mi plataforma de portafolio y crecimiento profesional, un proyecto que combina un sitio público premium con un laboratorio privado de desarrollo de habilidades impulsado por IA.
+Actualmente construyo una plataforma de como portafolio y crecimiento profesional, un proyecto que combina un sitio público premium con un laboratorio privado de desarrollo de habilidades impulsado por IA.
 
 - 🔭 Actualmente trabajando en **AI Career Growth Portfolio** — un portafolio personalizable con un laboratorio de crecimiento profesional con IA
-- 🌱 Profundizando en **React, TypeScript, y arquitecturas seguras**
-- 💡 Todo lo que muestro en mis proyectos es real: 3 proyectos reales, 1 en producción, 10+ tecnologías, 5 certificaciones
-- 👯 Siempre dispuesto a colaborar en proyectos de **desarrollo web, software y aplicaciones móviles**
+- 💡 Profundizando en **React, TypeScript, y arquitecturas seguras**
+- 🌱 Siempre dispuesto a colaborar en proyectos de **desarrollo web, software y aplicaciones móviles**
 - 🤔 Buscando ayuda con **buenas prácticas de arquitectura frontend/backend a escala**
 - 💬 Hablemos sobre **Desarrollo, Ciberseguridad, Diseño, Automatizaciones, o temas en concreto : Cómo construí AILab y que aprendi en mi blog: https://ai-career-growth-portfolio.vercel.app/blog**
 - ⚡ Dato curioso: **"Git rebase me ha salvado mas veces la vida de las que tiene un gato😅"**.
 - 🎮 Explorando desarrollo de videojuegos
 - 📫 Contáctame: **rodrigob.camones@gmail.com** · [LinkedIn](https://www.linkedin.com/in/rodrigo-camones-5a265121a) · [WhatsApp](https://wa.me/51930231839)
 
----
-
 ### 🚀 Proyecto destacado: AILab
 
-Durante mi práctica preprofesional en el **Instituto de Investigaciones de la Amazonía Peruana (IIAP)**, bajo la supervisión del Ing. Rodolfo Cárdenas (abril–julio 2025), desarrollé **AILab**, una plataforma para la mejora en la difusion de los proyectos del Laboratorio de IA el cual puedes visitar accediendo al enlace:
+Durante mi práctica preprofesional en el **Instituto de Investigaciones de la Amazonía Peruana (IIAP)**, bajo la supervisión del Ing. Rodolfo Cárdenas (abril–julio 2025), desarrollé **AILab**, una plataforma para la mejora en la difusion de los proyectos del Laboratorio de IA.
 
 🔗 **[ailab.iiap.gob.pe](https://ailab.iiap.gob.pe)**
 
@@ -48,8 +43,6 @@ Otros proyectos reales en mi portafolio:
 
 📌 Mi portafolio completo, con **3 proyectos reales, 1 en producción, 10+ tecnologías y 5 certificaciones**, todo verificable:
 🔗 **[ai-career-growth-portfolio.vercel.app](https://ai-career-growth-portfolio.vercel.app)**
-
----
 
 ### 🛠️ Stack tecnológico
 
