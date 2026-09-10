@@ -16,7 +16,7 @@
   </a>
 </p>
 
-🧭 Sobre mí
+### 🧭 Sobre mí
 
 Bachiller en Ingeniería de Sistemas e Informatica, enfocado en desarrollo web, software y aplicaciones con un principio que guía todo mi trabajo: "security by design with evidence" — cada habilidad que muestro está respaldada por evidencia verificable y todo un proceso metodologicamente ágil documentado.
 
