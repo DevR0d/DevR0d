@@ -1,5 +1,5 @@
 <h2 align="center">👋 Im Rodrigo Camones (DevR0d), "As humble as the early days of JavaScript" </h2>
-<h3 align="center"> Future FS Developer and AI Software Engineer | Ingeniero de Sistemas e Informatica | Security, Design and Automatization </h3>
+<h3 align="center"> Future FS Developer and AI Software Engineer | Ingeniero de Sistemas e Informatica | Security, Design and Automation </h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rodrigo-camones-5a265121a" target="_blank">
