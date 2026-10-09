@@ -1,5 +1,5 @@
 <h2 align="center">👋 Im Rodrigo Camones (DevR0d), "As humble as the early days of JavaScript" </h2>
-<h3 align="center"> Future FS Developer and AI Software Engineer | Ingeniero de Sistemas e Informatica | Security, Design and Automation </h3>
+<h3 align="center"> Future FS Developer | Systems and Computer Engineer | Security, Design and Automation </h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rodrigo-camones-5a265121a" target="_blank">
@@ -27,7 +27,7 @@ Actualmente construyo una plataforma de como portafolio y crecimiento profesiona
 - 🌱 Siempre dispuesto a colaborar en proyectos de **desarrollo web, software y aplicaciones móviles**
 - 🤔 Buscando ayuda con **buenas prácticas de arquitectura frontend/backend a escala**
 - 💬 Hablemos sobre **Desarrollo, Ciberseguridad, Diseño, Automatizaciones, o temas en concreto : Cómo construí AILab y que aprendi en mi blog: https://ai-career-growth-portfolio.vercel.app/blog**
-- ⚡ Dato curioso: **"Git rebase me ha salvado mas veces la vida de las que tiene un gato😅"**.
+- ⚡ Dato curioso: **"Git rebase me ha salvado mas veces la vida que las que tiene un gato😅"**.
 - 🎮 Explorando desarrollo de videojuegos
 - 📫 Contáctame: **rodrigob.camones@gmail.com** · [LinkedIn](https://www.linkedin.com/in/rodrigo-camones-5a265121a) · [WhatsApp](https://wa.me/51930231839)
 
@@ -38,8 +38,8 @@ Durante mi práctica preprofesional en el **Instituto de Investigaciones de la A
 🔗 **[ailab.iiap.gob.pe](https://ailab.iiap.gob.pe)**
 
 Otros proyectos reales en mi portafolio:
-- **APPCOBRANZA** — sistema de gestión de cobranzas
-- **Sistema de gestión de préstamos**
+- **APPCOBRANZA** Aplicacion para la gestion de cobros interpersonales.
+- **Sisgepyc** — Sistema web en php de gestión de préstamos y cobranzas para personas y empresas.
 
 📌 Mi portafolio completo, con **3 proyectos reales, 1 en producción, 10+ tecnologías y 5 certificaciones**, todo verificable:
 🔗 **[ai-career-growth-portfolio.vercel.app](https://ai-career-growth-portfolio.vercel.app)**
