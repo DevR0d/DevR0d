@@ -31,7 +31,7 @@ Bachiller en Ingeniería de Sistemas e Informatica, enfocado en desarrollo web, 
 - 🎮 Explorando desarrollo de juegos...
 - 📫 Contáctame: **rodrigob.camones@gmail.com** · [LinkedIn](https://www.linkedin.com/in/rodrigo-camones-5a265121a) · [WhatsApp](https://wa.me/51930231839)
 
-### 🚀 Proyecto destacado: AILAB 🔗 **[ailab.iiap.gob.pe](https://ailab.iiap.gob.pe)**
+### 🚀 Proyecto destacado: AILab 🔗 **[ailab.iiap.gob.pe](https://ailab.iiap.gob.pe)**
 
 Durante mi práctica preprofesional en el **Instituto de Investigaciones de la Amazonía Peruana (IIAP)**, bajo la supervisión del Ing. Rodolfo Cárdenas (abril–julio 2025), desarrollé **AILab**, una plataforma para la mejora en la difusion de los proyectos del Laboratorio de IA.
 
