@@ -31,6 +31,17 @@ Bachiller en Ingeniería de Sistemas e Informatica, enfocado en desarrollo web, 
 - 🎮 Explorando desarrollo de videojuegos
 - 📫 Contáctame: **rodrigob.camones@gmail.com** · [LinkedIn](https://www.linkedin.com/in/rodrigo-camones-5a265121a) · [WhatsApp](https://wa.me/51930231839)
 
+### 🚀 Proyecto destacado: AILAB 🔗 **[ailab.iiap.gob.pe](https://ailab.iiap.gob.pe)**
+
+Durante mi práctica preprofesional en el **Instituto de Investigaciones de la Amazonía Peruana (IIAP)**, bajo la supervisión del Ing. Rodolfo Cárdenas (abril–julio 2025), desarrollé **AILab**, una plataforma para la mejora en la difusion de los proyectos del Laboratorio de IA.
+
+Otros proyectos reales en mi portafolio:
+- **APPCOBRANZA** Aplicacion en flutter para la gestion de cobros interpersonales.
+- **SISGEPYC** — Sistema web en php de gestión de préstamos y cobranzas para personas y empresas.
+
+📌 Mi portafolio completo, con **3 proyectos reales, 1 en producción, 10+ tecnologías y 5 certificaciones**, todo verificable:
+🔗 **[ai-career-growth-portfolio.vercel.app](https://ai-career-growth-portfolio.vercel.app)**
+
 ### 🛠️ Stack tecnológico
 
 <p align="left">
@@ -42,19 +53,6 @@ Bachiller en Ingeniería de Sistemas e Informatica, enfocado en desarrollo web, 
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
 </p>
-
-### 🚀 Proyecto destacado: AILab
-
-Durante mi práctica preprofesional en el **Instituto de Investigaciones de la Amazonía Peruana (IIAP)**, bajo la supervisión del Ing. Rodolfo Cárdenas (abril–julio 2025), desarrollé **AILab**, una plataforma para la mejora en la difusion de los proyectos del Laboratorio de IA.
-
-🔗 **[ailab.iiap.gob.pe](https://ailab.iiap.gob.pe)**
-
-Otros proyectos reales en mi portafolio:
-- **APPCOBRANZA** Aplicacion en flutter para la gestion de cobros interpersonales.
-- **SISGEPYC** — Sistema web en php de gestión de préstamos y cobranzas para personas y empresas.
-
-📌 Mi portafolio completo, con **3 proyectos reales, 1 en producción, 10+ tecnologías y 5 certificaciones**, todo verificable:
-🔗 **[ai-career-growth-portfolio.vercel.app](https://ai-career-growth-portfolio.vercel.app)**
 
 ---
 
