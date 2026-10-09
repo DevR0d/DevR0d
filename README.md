@@ -20,7 +20,7 @@
 
 Bachiller en Ingeniería de Sistemas e Informatica, enfocado en desarrollo web, software y aplicaciones con un principio que guía todo mi trabajo: "security by design with evidence" — cada habilidad que muestro está respaldada por evidencia verificable y todo un proceso metodologicamente ágil documentado.
 
-Actualmente construyo un portafolio autogestionable como plataforma inteligente de crecimiento profesional para cualquier perfil tecnico, un proyecto que combina un sitio público premium con un laboratorio privado de desarrollo de habilidades impulsado por IA.
+<!-- Actualmente construyo un portafolio autogestionable como plataforma inteligente de crecimiento profesional para cualquier perfil tecnico, un proyecto que combina un sitio público premium con un laboratorio privado de desarrollo de habilidades impulsado por IA. -->
 
 - 🔭 Actualmente trabajando en **AI Career Growth Portfolio** — un portafolio personalizable con un laboratorio de crecimiento profesional con IA
 - 💡 Profundizando en **React, TypeScript, y arquitecturas seguras**
