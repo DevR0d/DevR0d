@@ -28,7 +28,7 @@ Bachiller en Ingeniería de Sistemas e Informatica, enfocado en desarrollo web, 
 - 🤔 Buscando ayuda con **buenas prácticas de arquitectura frontend/backend a escala**
 - 💬 Hablemos sobre **Desarrollo, Ciberseguridad, Diseño, Automatizaciones, o temas en concreto : Cómo construí AILab y que aprendi en mi blog: https://ai-career-growth-portfolio.vercel.app/blog**
 - ⚡ Dato curioso: **"Git rebase me ha salvado mas veces la vida que las que tiene un gato😅"**.
-- 🎮 Explorando desarrollo de videojuegos
+- 🎮 Explorando desarrollo de juegos...
 - 📫 Contáctame: **rodrigob.camones@gmail.com** · [LinkedIn](https://www.linkedin.com/in/rodrigo-camones-5a265121a) · [WhatsApp](https://wa.me/51930231839)
 
 ### 🚀 Proyecto destacado: AILAB 🔗 **[ailab.iiap.gob.pe](https://ailab.iiap.gob.pe)**
