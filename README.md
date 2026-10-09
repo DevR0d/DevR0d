@@ -39,7 +39,7 @@ Durante mi práctica preprofesional en el **Instituto de Investigaciones de la A
 
 Otros proyectos reales en mi portafolio:
 - **APPCOBRANZA** Aplicacion para la gestion de cobros interpersonales.
-- **Sisgepyc** — Sistema web en php de gestión de préstamos y cobranzas para personas y empresas.
+- **SISGEPYC** — Sistema web en php de gestión de préstamos y cobranzas para personas y empresas.
 
 📌 Mi portafolio completo, con **3 proyectos reales, 1 en producción, 10+ tecnologías y 5 certificaciones**, todo verificable:
 🔗 **[ai-career-growth-portfolio.vercel.app](https://ai-career-growth-portfolio.vercel.app)**
